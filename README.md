@@ -24,6 +24,7 @@ Currently, the list is available in the following machine readable formats:
 
   * as CSV file
   * as (Postgresql) database / table dump in SQL syntax
+  * as XLS file
 
 # Contributions
 
