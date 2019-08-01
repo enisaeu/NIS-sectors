@@ -66,7 +66,7 @@ COPY public.sector (sector_id, name_en, name_de) FROM stdin;
 5	Health sector	Gesundheitswesen
 6	Drinking water supply and distribution	Trinkwasserlieferung und -versorgung
 7	Digital Infrastructure	Digitale Infrastruktur
-8	Government	Öffentliche Verwaltung
+8	Public administration	Öffentliche Verwaltung
 9	Other	Sonstige
 10	Unknown	Unbekannt
 \.
@@ -88,7 +88,7 @@ COPY public.subsector (subsector_id, sector_id, name_en, name_de) FROM stdin;
 12	7	IXPs	IXPs
 13	7	DNS service providers	DNS-Diensteanbieter
 14	7	TLD name registries	DNS-Name-Registries
-15	8	Government	Öffentliche Verwaltung
+15	8	Public administration	Öffentliche Verwaltung
 16	9	Other	Sonstige
 17	10	Unknown	Unbekannt
 \.
