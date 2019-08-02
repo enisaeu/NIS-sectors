@@ -1,10 +1,17 @@
-1,Energy
-2,Transport
-3,Banking
-4,Financial market infrastructures
-5,Health sector
-6,Drinking water supply and distribution
-7,Digital Infrastructure
-8,Government
-9,Other
-10,Unknown
+1,1,Energy,Energie,Electricity,Elektrizität
+1,2,Energy,Energie,Oil,Erdöl
+1,3,Energy,Energie,Gas,Erdgas
+2,4,Transport,Verkehr,Air transport,Luftverkehr
+2,5,Transport,Verkehr,Rail transport,Schienenverkehr
+2,6,Transport,Verkehr,Water transport,Schifffahrt
+2,7,Transport,Verkehr,Road transport,Straßenverkehr
+3,8,Banking,Bankwesen,Banking,Bankwesen
+4,9,Financial market infrastructures,Finanzmarktinfrastrukturen ,Financial market infrastructures,Finanzmarktinfrastrukturen
+5,10,Health sector,Gesundheitswesen,Health care settings (including hospitals and private clinics),Einrichtungen der medizinischen Versorgung (einschließlich Krankenhäuser und Privatkliniken)
+6,11,Drinking water supply and distribution,Trinkwasserlieferung und -versorgung,Drinking water supply and distribution,Trinkwasserlieferung und -versorgung
+7,12,Digital Infrastructure,Digitale Infrastruktur,IXPs,IXPs
+7,13,Digital Infrastructure,Digitale Infrastruktur,DNS service providers,DNS-Diensteanbieter
+7,14,Digital Infrastructure,Digitale Infrastruktur,TLD name registries,DNS-Name-Registries
+8,15,Public administration,Öffentliche Verwaltung,Public administration,Öffentliche Verwaltung
+9,16,Other,Sonstige,Other,Sonstige
+10,17,Unknown,Unbekannt,Unknown,Unbekannt
